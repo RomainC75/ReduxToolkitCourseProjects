@@ -69,6 +69,7 @@ const CreatePost = () => {
         </Space>
       </form>
       {showPost && <div>{showPostBlog()}</div>}
+      
     </div>
   );
 };
