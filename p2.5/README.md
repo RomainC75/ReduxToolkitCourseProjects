@@ -1,4 +1,4 @@
-# P2.5 : RTK Query
+# P2.5 : Todo list with RTK Query
 
 This is a projet from the course :
 ***Complete Guide To Redux Toolkit RTK Query with React***
